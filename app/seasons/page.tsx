@@ -24,7 +24,7 @@ export default function Home() {
 
 				<div className="w-full h-px bg-zinc-200 my-8" />
 				<h2 className="text-2xl font-bold text-black dark:text-zinc-50 mb-5">Some Colors</h2>
-				<div className="grid grid-cols-6 justify-center items-center w-full gap-4" style={{ gridTemplateColumns: "repeat(6, minmax(0, 1fr))" }}>
+				<div className="grid grid-cols-2 md:grid-cols-6 justify-center items-center w-full gap-4" >
 					{data["colors"].map((color) => (
 						<div key={color.code} className="flex flex-col items-center gap-0">
 							<div className="w-full h-16" style={{ backgroundColor: `${color.hex}` }}></div>
