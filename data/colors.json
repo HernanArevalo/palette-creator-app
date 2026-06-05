@@ -1,0 +1,40 @@
+{
+    "seasons": [
+        { 
+            "name": "Bright Spring",
+            "file": "bright_spring.json"
+        },
+        { 
+            "name": "Bright Winter",
+            "file": "bright_winter.json"
+        },
+        { 
+            "name": "Dark Autumn",
+            "file": "dark_autumn.json"
+        },
+        { 
+            "name": "Dark Winter",
+            "file": "dark_winter.json"
+        },
+        { 
+            "name": "Light Spring",
+            "file": "light_spring.json"
+        },
+        { 
+            "name": "Soft Autumn",
+            "file": "soft_autumn.json"
+        },
+        { 
+            "name": "Soft Summer",
+            "file": "soft_summer.json"
+        },
+        { 
+            "name": "True Autumn",
+            "file": "true_autumn.json"
+        },
+        { 
+            "name": "True Winter",
+            "file": "true_winter.json"
+        }
+    ]
+}

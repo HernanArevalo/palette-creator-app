@@ -1,0 +1,334 @@
+{
+    "colors": [
+        {
+            "code": "11-0601 TCX",
+            "name": "Bright White",
+            "hex": "#F4F5F0"
+        },
+        {
+            "code": "12-2103 TCX",
+            "name": "Almost Mauve",
+            "hex": "#E7DCD9"
+        },
+        {
+            "code": "14-6408 TCX",
+            "name": "Abbey Stone",
+            "hex": "#ABA798"
+        },
+        {
+            "code": "17-1500 TCX",
+            "name": "Steeple Gray",
+            "hex": "#8A8583"
+        },
+        {
+            "code": "13-4305 TCX",
+            "name": "Foggy Dew",
+            "hex": "#CFD4D0"
+        },
+        {
+            "code": "14-4103 TCX",
+            "name": "Gray Violet",
+            "hex": "#BDBEC0"
+        },
+        {
+            "code": "12-0602 TCX",
+            "name": "Artic Wolf",
+            "hex": "#DFD6C8"
+        },
+        {
+            "code": "14-4107 TCX",
+            "name": "Quiet Gray",
+            "hex": "#B3B6B8"
+        },
+        {
+            "code": "18-3907 TCX",
+            "name": "Tornado",
+            "hex": "#5E5E63"
+        },
+        {
+            "code": "18-0306 TCX",
+            "name": "Gunmetal",
+            "hex": "#5C5D5D"
+        },
+        {
+            "code": "17-5102 TCX",
+            "name": "Griffin",
+            "hex": "#8A8D8F"
+        },
+        {
+            "code": "16-0000 TCX",
+            "name": "Paloma",
+            "hex": "#A09F9C"
+        },
+        {
+            "code": "19-4305 TCX",
+            "name": "Pirate Black",
+            "hex": "#3A3A3C"
+        },
+        {
+            "code": "11-0619 TCX",
+            "name": "Flan",
+            "hex": "#F4E2B5"
+        },
+        {
+            "code": "12-5409 TCX",
+            "name": "Fair Aqua",
+            "hex": "#B8E2D7"
+        },
+        {
+            "code": "12-1706 TCX",
+            "name": "Pink Dogwood",
+            "hex": "#F7D0D4"
+        },
+        {
+            "code": "12-2908 TCX",
+            "name": "Festival Bloom",
+            "hex": "#F2CFE1"
+        },
+        {
+            "code": "16-1723 TCX",
+            "name": "Confetti",
+            "hex": "#E86F88"
+        },
+        {
+            "code": "13-3802 TCX",
+            "name": "Orchid Tint",
+            "hex": "#DBD2DB"
+        },
+        {
+            "code": "14-3812 TCX",
+            "name": "Pastel Lilac",
+            "hex": "#BEB4D1"
+        },
+        {
+            "code": "12-0742 TCX",
+            "name": "Lemon Verbena",
+            "hex": "#EDEE91"
+        },
+        {
+            "code": "13-0840 TCX",
+            "name": "Snapdragon",
+            "hex": "#FAD269"
+        },
+        {
+            "code": "14-0851 TCX",
+            "name": "Samoan Sun",
+            "hex": "#F1B94C"
+        },
+        {
+            "code": "14-0340 TCX",
+            "name": "Acid Lime",
+            "hex": "#B4D33F"
+        },
+        {
+            "code": "14-0442 TCX",
+            "name": "White Grape",
+            "hex": "#A5B64E"
+        },
+        {
+            "code": "16-0237 TCX",
+            "name": "Foliage",
+            "hex": "#72964C"
+        },
+        {
+            "code": "16-0235 TCX",
+            "name": "Kiwi",
+            "hex": "#78A153"
+        },
+        {
+            "code": "18-1651 TCX",
+            "name": "Cayenne",
+            "hex": "#DF4653"
+        },
+        {
+            "code": "18-1762 TCX",
+            "name": "Hibiscus",
+            "hex": "#DD3848"
+        },
+        {
+            "code": "18-1852 TCX",
+            "name": "Rose Red",
+            "hex": "#C21E56"
+        },
+        {
+            "code": "18-1741 TCX",
+            "name": "Raspberry Wine",
+            "hex": "#B23455"
+        },
+        {
+            "code": "18-2143 TCX",
+            "name": "Beetroot Purple",
+            "hex": "#CF2A71"
+        },
+        {
+            "code": "18-2436 TCX",
+            "name": "Fuchsia Purple",
+            "hex": "#D33479"
+        },
+        {
+            "code": "19-2045 TCX",
+            "name": "Vivacious",
+            "hex": "#9C2759"
+        },
+        {
+            "code": "18-2330 TCX",
+            "name": "Fuchsia Fedora",
+            "hex": "#CA4488"
+        },
+        {
+            "code": "15-2214 TCX",
+            "name": "Rosebloom",
+            "hex": "#DF92A6"
+        },
+        {
+            "code": "18-2326 TCX",
+            "name": "Cactus Flower",
+            "hex": "#A83E71"
+        },
+        {
+            "code": "17-2624 TCX",
+            "name": "Rose Violet",
+            "hex": "#BA528B"
+        },
+        {
+            "code": "18-2043 TCX",
+            "name": "Raspberry Sorbet",
+            "hex": "#D03B72"
+        },
+        {
+            "code": "18-2929 TCX",
+            "name": "Purple Wine",
+            "hex": "#8C4778"
+        },
+        {
+            "code": "18-3339 TCX",
+            "name": "Vivid Viola",
+            "hex": "#8E448B"
+        },
+        {
+            "code": "18-3223 TCX",
+            "name": "Cattleya Orchid",
+            "hex": "#945B95"
+        },
+        {
+            "code": "19-3138 TCX",
+            "name": "Byzantium",
+            "hex": "#7E396E"
+        },
+        {
+            "code": "18-3633 TCX",
+            "name": "Deep Lavender",
+            "hex": "#705893"
+        },
+        {
+            "code": "19-3850 TCX",
+            "name": "Liberty",
+            "hex": "#4D4E8E"
+        },
+        {
+            "code": "16-5820 TCX",
+            "name": "Green Spruce",
+            "hex": "#3D9973"
+        },
+        {
+            "code": "17-6154 TCX",
+            "name": "Green Bee",
+            "hex": "#009A52"
+        },
+        {
+            "code": "18-6031 TCX",
+            "name": "First Tee",
+            "hex": "#237A3B"
+        },
+        {
+            "code": "16-5421 TCX",
+            "name": "Sea Green",
+            "hex": "#189B90"
+        },
+        {
+            "code": "15-4716 TCX",
+            "name": "Ipanema",
+            "hex": "#3FB9C6"
+        },
+        {
+            "code": "16-5426 TCX",
+            "name": "Water Garden",
+            "hex": "#00A195"
+        },
+        {
+            "code": "14-4522 TCX",
+            "name": "Bachelor Button",
+            "hex": "#48B0CB"
+        },
+        {
+            "code": "17-4435 TCX",
+            "name": "Malibu Blue",
+            "hex": "#0087BA"
+        },
+        {
+            "code": "18-4432 TCX",
+            "name": "Turkish Tile",
+            "hex": "#00698B"
+        },
+        {
+            "code": "14-4124 TCX",
+            "name": "Dutch Canal",
+            "hex": "#9BB4DD"
+        },
+        {
+            "code": "18-4048 TCX",
+            "name": "Nebulas Blue",
+            "hex": "#3460A3"
+        },
+        {
+            "code": "18-4148 TCX",
+            "name": "Victoria Blue",
+            "hex": "#005F9E"
+        },
+        {
+            "code": "19-4058 TCX",
+            "name": "Beaucoup Blue",
+            "hex": "#2E4E7E"
+        },
+        {
+            "code": "19-3964 TCX",
+            "name": "Blue Quartz",
+            "hex": "#2D4166"
+        },
+        {
+            "code": "17-3940 TCX",
+            "name": "Lolite",
+            "hex": "#6D72A6"
+        },
+        {
+            "code": "18-3945 TCX",
+            "name": "Amparo Blue",
+            "hex": "#4A5B9C"
+        },
+        {
+            "code": "19-3955 TCX",
+            "name": "Royal Blue",
+            "hex": "#273A8A"
+        },
+        {
+            "code": "19-3951 TCX",
+            "name": "Clematis Blue",
+            "hex": "#3A3A73"
+        },
+        {
+            "code": "19-3731 TCX",
+            "name": "Parachute Purple",
+            "hex": "#312543"
+        },
+        {
+            "code": "19-4007 TCX",
+            "name": "Anthracite",
+            "hex": "#28282C"
+        },
+        {
+            "code": "19-3953 TCX",
+            "name": "Sodalite Blue",
+            "hex": "#233054"
+        }
+    ]
+}

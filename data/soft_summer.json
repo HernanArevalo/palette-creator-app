@@ -1,0 +1,394 @@
+{
+    "colors": [
+        {
+            "code": "18-1112 TCX",
+            "name": "Walnut",
+            "hex": "#735E51"
+        },
+        {
+            "code": "17-1418 TCX",
+            "name": "Ginger Snap",
+            "hex": "#967462"
+        },
+        {
+            "code": "19-0820 TCX",
+            "name": "Canteen",
+            "hex": "#5C5346"
+        },
+        {
+            "code": "17-6206 TCX",
+            "name": "Shadow",
+            "hex": "#777B74"
+        },
+        {
+            "code": "17-0208 TCX",
+            "name": "Dried Sage",
+            "hex": "#8B8B82"
+        },
+        {
+            "code": "18-5105 TCX",
+            "name": "Sedona Sage",
+            "hex": "#696C68"
+        },
+        {
+            "code": "19-0312 TCX",
+            "name": "Beetle",
+            "hex": "#4A4C40"
+        },
+        {
+            "code": "18-5206 TCX",
+            "name": "Thunderstorm",
+            "hex": "#666465"
+        },
+        {
+            "code": "18-1306 TCX",
+            "name": "Iron",
+            "hex": "#736460"
+        },
+        {
+            "code": "17-1508 TCX",
+            "name": "Silent Storm",
+            "hex": "#838487"
+        },
+        {
+            "code": "19-0910 TCX",
+            "name": "Mulch",
+            "hex": "#423735"
+        },
+        {
+            "code": "19-3903 TCX",
+            "name": "Shale",
+            "hex": "#48464A"
+        },
+        {
+            "code": "19-0000 TCX",
+            "name": "Raven",
+            "hex": "#424245"
+        },
+        {
+            "code": "11-0602 TCX",
+            "name": "Snow White",
+            "hex": "#F2F0EB"
+        },
+        {
+            "code": "13-0905 TCX",
+            "name": "Birch",
+            "hex": "#DDD5C7"
+        },
+        {
+            "code": "13-0000 TCX",
+            "name": "Moonbeam",
+            "hex": "#D4CFC4"
+        },
+        {
+            "code": "15-4503 TCX",
+            "name": "Chateau Gray",
+            "hex": "#A7A19E"
+        },
+        {
+            "code": "14-1305 TCX",
+            "name": "Mushroom",
+            "hex": "#BDA69D"
+        },
+        {
+            "code": "14-0108 TCX",
+            "name": "Castle Wall",
+            "hex": "#C5BBAE"
+        },
+        {
+            "code": "14-4500 TCX",
+            "name": "Moonstruck",
+            "hex": "#B7B2B3"
+        },
+        {
+            "code": "12-0704 TCX",
+            "name": "White Smoke",
+            "hex": "#E7D8C4"
+        },
+        {
+            "code": "15-4703 TCX",
+            "name": "Mirage Gray",
+            "hex": "#91969B"
+        },
+        {
+            "code": "12-5201 TCX",
+            "name": "Icicle",
+            "hex": "#DCDED7"
+        },
+        {
+            "code": "16-1105 TCX",
+            "name": "Plaza Taupe",
+            "hex": "#A0968D"
+        },
+        {
+            "code": "16-1506 TCX",
+            "name": "Bark",
+            "hex": "#9F8684"
+        },
+        {
+            "code": "16-3800 TCX",
+            "name": "Satellite",
+            "hex": "#8B8285"
+        },
+        {
+            "code": "16-0205 TCX",
+            "name": "Vintage Khaki",
+            "hex": "#958B84"
+        },
+        {
+            "code": "14-1511 TCX",
+            "name": "Powder Pink",
+            "hex": "#ECBDBF"
+        },
+        {
+            "code": "15-1515 TCX",
+            "name": "Mellow Rose",
+            "hex": "#D99C9F"
+        },
+        {
+            "code": "16-1518 TCX",
+            "name": "Rosette",
+            "hex": "#C68487"
+        },
+        {
+            "code": "17-1718 TCX",
+            "name": "Dusty Rose",
+            "hex": "#AF6C73"
+        },
+        {
+            "code": "19-1524 TCX",
+            "name": "Oxblood Red",
+            "hex": "#5D3339"
+        },
+        {
+            "code": "13-1310 TCX",
+            "name": "English Rose",
+            "hex": "#F0C4C6"
+        },
+        {
+            "code": "14-1714 TCX",
+            "name": "Quartz Pink",
+            "hex": "#ECA1A6"
+        },
+        {
+            "code": "16-1720 TCX",
+            "name": "Strawberry Ice",
+            "hex": "#E28B93"
+        },
+        {
+            "code": "18-1635 TCX",
+            "name": "Slate Rose",
+            "hex": "#AD5D65"
+        },
+        {
+            "code": "19-1840 TCX",
+            "name": "Deep Claret",
+            "hex": "#88304E"
+        },
+        {
+            "code": "13-1906 TCX",
+            "name": "Rose Shadow",
+            "hex": "#F1BDC9"
+        },
+        {
+            "code": "15-1816 TCX",
+            "name": "Peony",
+            "hex": "#E298A4"
+        },
+        {
+            "code": "17-1927 TCX",
+            "name": "Desert Rose",
+            "hex": "#CF6977"
+        },
+        {
+            "code": "18-1633 TCX",
+            "name": "Garnet Rose",
+            "hex": "#9D4A55"
+        },
+        {
+            "code": "18-1725 TCX",
+            "name": "Dry Rose",
+            "hex": "#8B4B57"
+        },
+        {
+            "code": "14-2307 TCX",
+            "name": "Cameo Pink",
+            "hex": "#E0A9B8"
+        },
+        {
+            "code": "16-1715 TCX",
+            "name": "Wild Rose",
+            "hex": "#BF808B"
+        },
+        {
+            "code": "17-1609 TCX",
+            "name": "Mesa Rose",
+            "hex": "#996F75"
+        },
+        {
+            "code": "18-1718 TCX",
+            "name": "Hawthorn Rose",
+            "hex": "#8E5262"
+        },
+        {
+            "code": "19-2816 TCX",
+            "name": "Blackberry Wine",
+            "hex": "#4A3546"
+        },
+        {
+            "code": "16-3911 TCX",
+            "name": "Lavender Aura",
+            "hex": "#9995A9"
+        },
+        {
+            "code": "18-3710 TCX",
+            "name": "Gray Ridge",
+            "hex": "#767081"
+        },
+        {
+            "code": "19-3915 TCX",
+            "name": "Graystone",
+            "hex": "#4D4E5C"
+        },
+        {
+            "code": "17-3923 TCX",
+            "name": "Colony Blue",
+            "hex": "#6B7E9F"
+        },
+        {
+            "code": "18-3932 TCX",
+            "name": "Marlin",
+            "hex": "#4B5A81"
+        },
+        {
+            "code": "15-3908 TCX",
+            "name": "Icelandic Blue",
+            "hex": "#A9B2C4"
+        },
+        {
+            "code": "17-3919 TCX",
+            "name": "Purple Impression",
+            "hex": "#7983A8"
+        },
+        {
+            "code": "17-3924 TCX",
+            "name": "Lavender Violet",
+            "hex": "#757CA7"
+        },
+        {
+            "code": "18-3817 TCX",
+            "name": "Heron",
+            "hex": "#5F637C"
+        },
+        {
+            "code": "19-4025 TCX",
+            "name": "Mood Indigo",
+            "hex": "#353A4C"
+        },
+        {
+            "code": "14-4512 TCX",
+            "name": "Porcelain Blue",
+            "hex": "#8CB9C5"
+        },
+        {
+            "code": "15-4415 TCX",
+            "name": "Milky Blue",
+            "hex": "#71A5B4"
+        },
+        {
+            "code": "17-4716 TCX",
+            "name": "Storm Blue",
+            "hex": "#3AB0BA"
+        },
+        {
+            "code": "18-4220 TCX",
+            "name": "Provincial Blue",
+            "hex": "#51758A"
+        },
+        {
+            "code": "19-4129 TCX",
+            "name": "Key Largo",
+            "hex": "#304D5B"
+        },
+        {
+            "code": "14-4815 TCX",
+            "name": "Leisure Time",
+            "hex": "#65C1C8"
+        },
+        {
+            "code": "16-4719 TCX",
+            "name": "Porcelain",
+            "hex": "#419D9E"
+        },
+        {
+            "code": "18-4718 TCX",
+            "name": "Hydro",
+            "hex": "#3B6C72"
+        },
+        {
+            "code": "17-4911 TCX",
+            "name": "Arctic",
+            "hex": "#668284"
+        },
+        {
+            "code": "19-4726 TCX",
+            "name": "Atlantic Deep",
+            "hex": "#274A4B"
+        },
+        {
+            "code": "14-5413 TCX",
+            "name": "Holiday",
+            "hex": "#85C6B1"
+        },
+        {
+            "code": "16-5924 TCX",
+            "name": "Winter Green",
+            "hex": "#229573"
+        },
+        {
+            "code": "18-5621 TCX",
+            "name": "Fir",
+            "hex": "#236B51"
+        },
+        {
+            "code": "17-5513 TCX",
+            "name": "Deep Sea",
+            "hex": "#4A7668"
+        },
+        {
+            "code": "18-5616 TCX",
+            "name": "Posy Green",
+            "hex": "#3D5E54"
+        },
+        {
+            "code": "14-6319 TCX",
+            "name": "Meadow",
+            "hex": "#8DBA8E"
+        },
+        {
+            "code": "16-5515 TCX",
+            "name": "Beryl Green",
+            "hex": "#699787"
+        },
+        {
+            "code": "19-5511 TCX",
+            "name": "Hunter Green",
+            "hex": "#3A5C4A"
+        },
+        {
+            "code": "13-0614 TCX",
+            "name": "Garden Glade",
+            "hex": "#D1D7A1"
+        },
+        {
+            "code": "14-0627 TCX",
+            "name": "Shadow Green",
+            "hex": "#C1C378"
+        },
+        {
+            "code": "19-0205 TCX",
+            "name": "Black Oyster",
+            "hex": "#434244"
+        }
+    ]
+}
