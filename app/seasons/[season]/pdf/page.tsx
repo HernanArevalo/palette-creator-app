@@ -61,7 +61,7 @@ export default async function SeasonPage({
             style={{ backgroundColor: color.hex }}
           />
 
-          <div className="h-24 px-12 flex flex-col justify-center bg-white text-black text-lg leading-5">
+          <div className="h-32 px-12 flex flex-col justify-center bg-white text-black text-lg leading-5">
             <p className="uppercase aeonik-light">
               Pantone
             </p>
